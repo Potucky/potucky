@@ -10,23 +10,23 @@ QA automation engineer focused on backend, API, and data validation testing acro
 
 | Area | Tools |
 | --- | --- |
-| Test Automation | Python, Selenium WebDriver, Behave (BDD), Playwright (TypeScript) |
-| API Testing | REST API, Postman, Playwright API tests |
-| Data & Backend QA | SQL, Snowflake, data warehouse testing, ETL/ELT validation, source-to-target validation, data reconciliation |
-| Databases | Oracle, PostgreSQL |
-| Programming | Python, TypeScript, JavaScript |
+| Test Automation | Python, Selenium WebDriver, Behave (BDD), pytest, Playwright (basic) |
+| API Testing | REST API testing, Postman/Newman |
+| Data & Backend QA | SQL, Snowflake, data warehouse / ETL/ELT validation, source-to-target reconciliation |
+| Databases | Oracle, PostgreSQL, DuckDB |
+| Programming | Python |
 | CI/CD & Tools | Jenkins, GitHub Actions, Git, Jira, TestRail |
-| Web Development | React, Supabase |
 
 ## Featured Projects
 
-| Project | Description |
-| --- | --- |
-| [qa-analyst-take-home-assignment](https://github.com/Potucky/qa-analyst-take-home-assignment) | Playwright and TypeScript suite with frontend checks, REST API CRUD tests, a test plan, and a GitHub Actions workflow. |
-| [creatorflow-studio](https://github.com/Potucky/creatorflow-studio) | React and TypeScript client for TikTok's Content Posting API, with Supabase Edge Functions handling tokens server-side. |
-| [InstaAutoPost](https://github.com/Potucky/InstaAutoPost) | Instagram publishing control center with a queue-based Python worker (dry-run by default) and GitHub Actions. |
-| [stair-designer](https://github.com/Potucky/stair-designer) | Browser-based 3D stair and railing design tool with PDF export, deployed on GitHub Pages. |
-| [Python_5_Project_Complete_Sample](https://github.com/Potucky/Python_5_Project_Complete_Sample) | Behave and Selenium BDD sample testing eBay navigation. |
+| Project | Description | Live report |
+| --- | --- | --- |
+| [sql-data-quality-checks](https://github.com/Potucky/sql-data-quality-checks) | SQL data-quality checks for a fictional veterinary clinic, with DuckDB as a warehouse stand-in. | [Live report](https://potucky.github.io/sql-data-quality-checks/) |
+| [etl-source-to-target-validation](https://github.com/Potucky/etl-source-to-target-validation) | pytest source-to-target reconciliation for a CSV-to-DuckDB SCD2 customer ETL. | [Live report](https://potucky.github.io/etl-source-to-target-validation/) |
+| [rest-api-testing-pytest](https://github.com/Potucky/rest-api-testing-pytest) | API tests for JSONPlaceholder using pytest, requests, JSON Schema and GitHub Actions. | [Live report](https://potucky.github.io/rest-api-testing-pytest/) |
+| [postman-api-collection-newman](https://github.com/Potucky/postman-api-collection-newman) | Postman collection and Newman CI for Restful Booker: auth flow, chained CRUD, schema and negative checks. | [Live report](https://potucky.github.io/postman-api-collection-newman/) |
+| [behave-bdd-ecommerce-tests](https://github.com/Potucky/behave-bdd-ecommerce-tests) | BDD UI suite for Sauce Demo using Behave, Selenium page objects and Allure. | [Live report](https://potucky.github.io/behave-bdd-ecommerce-tests/) |
+| [selenium-pytest-page-object](https://github.com/Potucky/selenium-pytest-page-object) | Selenium + pytest Page Object framework for SauceDemo: login, sorting, cart, checkout. | [Live report](https://potucky.github.io/selenium-pytest-page-object/) |
 
 ## Engineering Approach
 
